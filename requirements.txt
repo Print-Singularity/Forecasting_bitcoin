@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+scikit-metrics
+scikit-learn
+keras-models
+keras
+tensorflow
+scipy
+datetime
